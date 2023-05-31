@@ -3,3 +3,4 @@ Line2
 Is this line3?
 NICE
 Line3
+FIGHT
